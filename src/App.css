@@ -1,0 +1,101 @@
+*{
+  font-size: 1.2rem;
+
+/*-------------------------cabecera------------------------*/
+}
+.navbar-collapse{
+  flex-direction: row-reverse;
+}
+
+.bg-nav{
+background-color: #0097fb;
+}
+
+.nav-link:hover{
+  color: #0093c4 !important;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+  background: white;
+  border-radius: 30%;
+  transition: color 0.3s linear 0.2s;
+}
+/*------------------------fin cabecera-----------------------*/
+
+
+.container-info{
+  
+    background-color: #68c7ff ;
+  max-width: 100% !important;
+  height: 90vh;
+
+}
+
+.cont-info{
+  height: 100%;
+}
+
+.imgP{
+  width:15rem;
+  height: 15rem;
+  border: 10px solid #0097fb ;
+
+
+}
+
+.imgP:hover {
+  border: 10px solid #ffa726 ;
+}
+
+.carousel-img{
+  
+  background-color: #73e8ff ;
+  height: 100%;
+
+}
+
+.card{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.card-body{
+  height: 300px;
+}
+
+.card-img-top{
+  border: 10px solid  black;
+}
+
+.container-footer{
+display: flex;
+justify-content: center;
+text-align: center;
+flex-direction: column;
+background-color: #68c7ff ;
+height: 50vh;
+}
+
+.profile-link{
+  color:black;
+}
+
+.profile-link:hover{
+  color:white;
+}
+
+.link-foot{
+  color: black;
+}
+
+.link-foot:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.container-copi{
+  display: flex;
+justify-content: center;
+text-align: center;
+flex-direction: column;
+background-color: #0097fb ;
+height: 15vh;
+}
