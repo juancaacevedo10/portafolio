@@ -30,7 +30,7 @@ const projectMocks = {
     },
     {
       title: 'Pomodoro Clock',
-      description: 'web simulador de un cronometro',
+      description: 'web simulador de un cronometro funcional',
       imagen: '/ImageProjects/img-pomodoroClock.PNG',
       url: 'https://juancaacevedo10.github.io/Pomodoro_Clock/',
       id: ''
@@ -44,7 +44,7 @@ const projectMocks = {
     },
     {
       title: 'Product Landing',
-      description: 'web comercializadora de autos',
+      description: 'web comercializadora en venta de autos',
       imagen: '/ImageProjects/img-productLanding.PNG',
       url: 'https://juancaacevedo10.github.io/Product_Landing_Page/',
       id: ''

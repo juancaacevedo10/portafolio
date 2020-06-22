@@ -5,7 +5,7 @@ import projectMocks from '../utils/mocks/project-Mocks'
 export default function Carrusel () {
   return (
     <div id="projects" className="carousel-img pb-5">
-      <h3 className="text-center py-4">Mis proyectos</h3>
+      <h3 className="text-center py-4 text-white">Mis proyectos</h3>
       <div
         id="carouselExampleCaptions"
         className="carousel slide"

@@ -15,7 +15,7 @@ export default function CardProjects ({ titulo, descripcion, imagenPage, urlPage
             <p className="card-text">
               {descripcion}
             </p>
-            <a href={urlPage} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+            <a href={urlPage} target="_blank" rel="noopener noreferrer" className="btn btn-color text-white">
                 ver sitio
             </a>
           </div>
