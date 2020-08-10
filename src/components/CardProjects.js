@@ -4,7 +4,7 @@ import React from 'react'
 export default function CardProjects ({ titulo, descripcion, imagenPage, urlPage, id }) {
   return (
     <>
-      <div className={`carousel-item ${id}`}>
+      <div className="col-12 col-sm-4 col-md-3 mb-4">
         <div className="card">
           <img
             src={process.env.PUBLIC_URL + imagenPage}

@@ -1,11 +1,25 @@
 const projectMocks = {
   projects: [
     {
+      title: 'flagCountry Frontend Mentor',
+      description: 'Conoce las banderas del mundo y una breve descripcion',
+      imagen: '/ImageProjects/img-flagCountry.PNG',
+      url: 'https://flagcountry.vercel.app/',
+      id: ''
+    },
+    {
+      title: 'social media dashboard Frontend Mentor',
+      description: 'design of social-media-dashboard',
+      imagen: '/ImageProjects/img-social-media-dashboard.PNG',
+      url: 'https://juancaacevedo10.github.io/social-media-dashboard/',
+      id: ''
+    },
+    {
       title: 'Random Quote Machine',
       description: 'web generadora de frases aleatorias',
       imagen: '/ImageProjects/img-randomQuote.PNG',
       url: 'https://juancaacevedo10.github.io/Random-Quote-Machine/',
-      id: 'active'
+      id: ''
     },
     {
       title: 'Markdown Previewer',
@@ -36,7 +50,7 @@ const projectMocks = {
       id: ''
     },
     {
-      title: 'Technical documentation',
+      title: 'Technical doc.',
       description: 'web con breve documentacion de php',
       imagen: '/ImageProjects/img-technicalDocumentation.PNG',
       url: 'https://juancaacevedo10.github.io/technical_documentation_page/',

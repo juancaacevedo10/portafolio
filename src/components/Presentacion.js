@@ -11,13 +11,13 @@ export default function Presentacion () {
         <Row className="d-flex justify-content-center align-content-center  cont-info text-center">
           <Col xs={12} md={6} lg={6}>
             <Col xs={12} md={12}>
-              <Image className="img-fluid imgP" src={process.env.PUBLIC_URL + '/Imagenes/img-perfil.jpeg'} roundedCircle />
+              <Image className="img-fluid imgP animate__animated animate__flip" src={process.env.PUBLIC_URL + '/Imagenes/img-perfil.jpeg'} roundedCircle />
             </Col>
           </Col>
           <Col className="pt-4 " xs={12} md={6} lg={6}>
-            <h4>Juan Camilo Acevedo Castrillon</h4>
-            <p>Desarrollador web front-end junior</p>
-            <small className="text-monospace">Si se puede imaginar, se puede programar</small>
+            <h4 className="animate__animated animate__zoomInDown">Juan Camilo Acevedo Castrillon</h4>
+            <p className="animate__animated animate__zoomInDown">Desarrollador web front-end junior</p>
+            <small className="text-monospace ">Si se puede imaginar, se puede programar</small>
           </Col>
         </Row>
       </Container>

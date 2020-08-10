@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/Header'
 import Presentacion from '../components/Presentacion'
-import Carrusel from '../components/Carrusel'
+import Carrusel from '../components/ContCard'
 import Footer from '../components/Footer'
 
 export default function Principal () {

@@ -34,10 +34,9 @@ background-color: #00cbcc;
 }
 
 .imgP{
-  width:15rem;
+  width:60%;
   height: 15rem;
   border: 10px solid #00cbcc ;
-
 
 }
 
@@ -45,7 +44,7 @@ background-color: #00cbcc;
   border: 10px solid white ;
 }
 
-.carousel-img{
+.imgSpace{
   
   background-image: url("./img/giphy.gif");
   background-repeat: round;
@@ -54,15 +53,16 @@ background-color: #00cbcc;
 
 }
 
-.card{
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
 .card-body{
-  height: 300px;
   color: black;
   background-color: white;
+}
+
+.card-title{
+  font-size: 1rem;
+}
+.card-text{
+  font-size:17px;
 }
 
 .btn-color{
@@ -117,17 +117,14 @@ height: 15vh;
 height: 50%;
 }
 
+
 @media only screen and (min-width: 400px) {
   .card-body {
+    width:100%;
     height: 10%;
   }
 
-  .carousel-inner{
-    height: 50%;
-    padding: 0% 20% 0% 20%;
-    }
-
-    .carousel-img{
+    .imgSpace{
   
       background-image: url("./img/giphy.gif");
       background-repeat: initial;
@@ -135,4 +132,6 @@ height: 50%;
       height: 100%;
     
     }
+
+    
 }

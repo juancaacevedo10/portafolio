@@ -11,13 +11,13 @@ export default function header () {
         <div className="collapse navbar-collapse" id="navbarsExample07XL">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link text-white" href="#welcome-section">Perfil</a>
+              <a className="nav-link text-white animate__animated animate__rotateInDownRight" href="#welcome-section  ">Perfil</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-white" href="#projects">Proyectos</a>
+              <a className="nav-link text-white animate__animated animate__rotateInDownRight" href="#projects ">Proyectos</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-white" href="#contact">Contacto</a>
+              <a className="nav-link text-white animate__animated animate__rotateInDownRight" href="#contact ">Contacto</a>
             </li>
           </ul>
         </div>
