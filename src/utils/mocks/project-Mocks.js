@@ -72,7 +72,7 @@ const projectMocks = {
     },
     {
       title: 'Veterinary crud',
-      description: 'web formulario sobre pacientes de un veterinario,
+      description: 'web formulario sobre pacientes de un veterinario',
       imagen: '/ImageProjects/img-veterinarycrud.PNG',
       url: 'https://veterinaryitmapp.netlify.app/',
       id: ''
