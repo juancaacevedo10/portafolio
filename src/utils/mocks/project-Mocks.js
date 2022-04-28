@@ -8,6 +8,13 @@ const projectMocks = {
       id: ''
     },
     {
+      title: 'Veterinary crud',
+      description: 'web formulario sobre pacientes de un veterinario',
+      imagen: '/ImageProjects/img-veterinarycrud.PNG',
+      url: 'https://veterinaryitmapp.netlify.app/',
+      id: ''
+    },
+    {
       title: 'Random Quote Machine',
       description: 'web generadora de frases aleatorias',
       imagen: '/ImageProjects/img-randomQuote.PNG',
@@ -54,13 +61,6 @@ const projectMocks = {
       description: 'web comercializadora en venta de autos',
       imagen: '/ImageProjects/img-productLanding.PNG',
       url: 'https://juancaacevedo10.github.io/Product_Landing_Page/',
-      id: ''
-    },
-    {
-      title: 'Veterinary crud',
-      description: 'web formulario sobre pacientes de un veterinario',
-      imagen: '/ImageProjects/img-veterinarycrud.PNG',
-      url: 'https://veterinaryitmapp.netlify.app/',
       id: ''
     },
     {
