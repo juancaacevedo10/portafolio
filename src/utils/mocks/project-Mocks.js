@@ -1,13 +1,6 @@
 const projectMocks = {
   projects: [
     {
-      title: 'flagCountry Frontend Mentor',
-      description: 'Conoce las banderas del mundo y una breve descripcion',
-      imagen: '/ImageProjects/img-flagCountry.PNG',
-      url: 'https://flagcountry.vercel.app/',
-      id: ''
-    },
-    {
       title: 'social media dashboard Frontend Mentor',
       description: 'design of social-media-dashboard',
       imagen: '/ImageProjects/img-social-media-dashboard.PNG',
@@ -61,13 +54,6 @@ const projectMocks = {
       description: 'web comercializadora en venta de autos',
       imagen: '/ImageProjects/img-productLanding.PNG',
       url: 'https://juancaacevedo10.github.io/Product_Landing_Page/',
-      id: ''
-    },
-    {
-      title: 'Survey Form',
-      description: 'web formulario sobre el transporte publico',
-      imagen: '/ImageProjects/img-surveyForm.PNG',
-      url: 'https://juancaacevedo10.github.io/survey_form/',
       id: ''
     },
     {
